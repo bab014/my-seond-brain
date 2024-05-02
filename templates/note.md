@@ -1,5 +1,5 @@
 ---
-date: {{date:YYYY-MM-DD}}
+date: {{date}}
 tags:
 hubs:
 urls:
