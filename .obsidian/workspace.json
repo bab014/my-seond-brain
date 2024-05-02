@@ -1,0 +1,188 @@
+{
+  "main": {
+    "id": "09722c9c54075613",
+    "type": "split",
+    "children": [
+      {
+        "id": "cfbaa6387280900c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "654de74d236fa61c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "inbox/testing 123.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "470f48726b65c7be",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "inbox/my_new_note.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "718d83961c939337",
+    "type": "split",
+    "children": [
+      {
+        "id": "6faf8f56ce772933",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9465841ceeceeb74",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "827d2d9376a34f08",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "aa6ac75d17baf097",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "202fcee1c013b40e",
+    "type": "split",
+    "children": [
+      {
+        "id": "fcf49d9907f8753b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "88d88af3a6ef5378",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "inbox/my_new_note.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "382a68b54cf245e5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "inbox/my_new_note.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8133cf39f8f4c0b9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "06f649af0d0da408",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "inbox/my_new_note.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "470f48726b65c7be",
+  "lastOpenFiles": [
+    "templates/note.md",
+    "inbox/testing 123.md",
+    "notes/cheat-sheet",
+    "hubs/linux.md",
+    "hubs/python.md",
+    "hubs/go.md",
+    "hubs/Untitled.md",
+    "Untitled",
+    "notes/code-snips",
+    "notes/facts",
+    "notes/blog",
+    "inbox/This is a New Note.md",
+    "inbox/my_new_note.md",
+    "inbox/2024_04_30_python_help.md",
+    "inbox/python_help.md",
+    "templates",
+    "images/debian_logo.svg",
+    "images",
+    "inbox",
+    "notes",
+    "hubs",
+    "diagrams/Drawing 2024-04-27 17.01.55.excalidraw.md"
+  ]
+}
