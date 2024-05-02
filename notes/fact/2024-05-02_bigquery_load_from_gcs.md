@@ -12,6 +12,7 @@ url:
 
 This is a snippet for loading a `BigQuery` table from a file in `GCS` but with my own spin on it
 
+
 ```python
 uri = Config.Storage.GIS_ACX_GRID_URI
 
