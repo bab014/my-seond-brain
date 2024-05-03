@@ -3,7 +3,7 @@ date: 2024-05-02
 tags:
     - fact
 hubs:
-    - [[vim]]
+    - "[[vim]]"
 ---
 # Vim Format Note Name
 

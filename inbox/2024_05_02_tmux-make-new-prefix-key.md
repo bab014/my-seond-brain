@@ -3,7 +3,7 @@ date: 2024-05-02
 tags:
     - fact
 hubs:
-    - [[tmux]]
+    - "[[tmux]]"
 urls:
     - https://hamvocke.com/blog/a-guide-to-customizing-your-tmux-conf/
 ---

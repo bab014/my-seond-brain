@@ -3,8 +3,8 @@ date: 2024-05-02
 tags:
     - fact
 hubs:
-    - [[python]]
-    - [[bigquery]]
+    - "[[python]]"
+    - "[[bigquery]]"
 url:
     - https://cloud.google.com/python/docs/reference/bigquery/latest/google.cloud.bigquery.client.Client#google_cloud_bigquery_client_Client_load_table_from_uri
 ---

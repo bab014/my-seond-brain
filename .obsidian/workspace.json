@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "inbox/testing 123.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "470f48726b65c7be",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "inbox/my_new_note.md",
-                "mode": "source",
+                "file": "notes/fact/2024-05-02_bigquery_load_from_gcs.md",
+                "mode": "preview",
                 "source": true
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "inbox/my_new_note.md",
+                "file": "notes/fact/2024-05-02_bigquery_load_from_gcs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "inbox/my_new_note.md",
+                "file": "notes/fact/2024-05-02_bigquery_load_from_gcs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "inbox/my_new_note.md"
+                "file": "notes/fact/2024-05-02_bigquery_load_from_gcs.md"
               }
             }
           }
@@ -160,10 +147,18 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "470f48726b65c7be",
+  "active": "654de74d236fa61c",
   "lastOpenFiles": [
-    "templates/note.md",
+    "notes/fact/2024_05_02_vim-format-note-name.md",
+    "notes/fact/2024-05-02_bigquery_load_from_gcs.md",
+    "inbox/2024_05_02_tmux_set_term_colors.md",
+    "inbox/2024_05_02_tmux-make-new-prefix-key.md",
+    "inbox/This is a New Note.md",
+    "hubs/tmux.md",
     "inbox/testing 123.md",
+    "diagrams/Drawing 2024-04-27 17.01.55.excalidraw.md",
+    "inbox/my_new_note.md",
+    "templates/note.md",
     "notes/cheat-sheet",
     "hubs/linux.md",
     "hubs/python.md",
@@ -173,8 +168,6 @@
     "notes/code-snips",
     "notes/facts",
     "notes/blog",
-    "inbox/This is a New Note.md",
-    "inbox/my_new_note.md",
     "inbox/2024_04_30_python_help.md",
     "inbox/python_help.md",
     "templates",
@@ -182,7 +175,6 @@
     "images",
     "inbox",
     "notes",
-    "hubs",
-    "diagrams/Drawing 2024-04-27 17.01.55.excalidraw.md"
+    "hubs"
   ]
 }
