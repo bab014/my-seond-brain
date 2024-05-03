@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "inbox/2024-05-02_docker_forward_a_port.md",
+                "file": "notes/code-snips/2024-05-02_gnome_set_a_keybinding.md",
                 "mode": "preview",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "inbox/2024-05-02_docker_forward_a_port.md",
+                "file": "notes/code-snips/2024-05-02_gnome_set_a_keybinding.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "inbox/2024-05-02_docker_forward_a_port.md",
+                "file": "notes/code-snips/2024-05-02_gnome_set_a_keybinding.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "inbox/2024-05-02_docker_forward_a_port.md"
+                "file": "notes/code-snips/2024-05-02_gnome_set_a_keybinding.md"
               }
             }
           }
@@ -149,10 +149,10 @@
   },
   "active": "654de74d236fa61c",
   "lastOpenFiles": [
+    "inbox/2024-05-02_docker_forward_a_port.md",
     "notes/code-snips/2024-05-02_gnome_set_a_keybinding.md",
     "inbox/2024-05-02_gnome_set_a_keybinding.md",
     "notes/fact/2024-05-02_bigquery_load_from_gcs.md",
-    "inbox/2024-05-02_docker_forward_a_port.md",
     "hubs/docker.md",
     "notes/fact/2024_05_02_vim-format-note-name.md",
     "inbox/2024_05_02_tmux_set_term_colors.md",
