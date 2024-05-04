@@ -1,7 +1,7 @@
 ---
 date: 2024-05-03
 tags:
-    - code-snip
+    - code-snips
 hubs:
     - "[[vim]]"
 ---

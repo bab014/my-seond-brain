@@ -11,8 +11,12 @@
             "id": "654de74d236fa61c",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "notes/fact/2024-05-02_bigquery_load_from_gcs.md",
+                "mode": "source",
+                "source": true
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "notes/fact/2024-05-02_bigquery_load_from_gcs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "notes/fact/2024-05-02_bigquery_load_from_gcs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "notes/fact/2024-05-02_bigquery_load_from_gcs.md"
+              }
             }
           }
         ]
@@ -141,20 +149,22 @@
   },
   "active": "654de74d236fa61c",
   "lastOpenFiles": [
-    "inbox/2024_05_02_tmux_set_term_colors.md",
+    "notes/fact/2024_05_02_vim-format-note-name.md",
     "notes/code-snips/2024-05-03_set_keymap_neovim.md",
     "notes/code-snips/2024-05-02_gnome_set_a_keybinding.md",
+    "inbox/2024_04_30_python_help.md",
+    "inbox/2024_05_02_python_snips.md",
+    "inbox/2024_05_02_tmux-make-new-prefix-key.md",
     "inbox/2024-05-02_docker_forward_a_port.md",
+    "inbox/This is a New Note.md",
+    "inbox/testing 123.md",
+    "inbox/2024_05_02_tmux_set_term_colors.md",
+    "inbox/my_new_note.md",
     "inbox/2024-05-02_gnome_set_a_keybinding.md",
     "notes/fact/2024-05-02_bigquery_load_from_gcs.md",
     "hubs/docker.md",
-    "notes/fact/2024_05_02_vim-format-note-name.md",
-    "inbox/2024_05_02_tmux-make-new-prefix-key.md",
-    "inbox/This is a New Note.md",
     "hubs/tmux.md",
-    "inbox/testing 123.md",
     "diagrams/Drawing 2024-04-27 17.01.55.excalidraw.md",
-    "inbox/my_new_note.md",
     "templates/note.md",
     "notes/cheat-sheet",
     "hubs/linux.md",
@@ -165,7 +175,6 @@
     "notes/code-snips",
     "notes/facts",
     "notes/blog",
-    "inbox/2024_04_30_python_help.md",
     "inbox/python_help.md",
     "templates",
     "images/debian_logo.svg",
