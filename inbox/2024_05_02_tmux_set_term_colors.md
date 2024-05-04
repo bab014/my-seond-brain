@@ -3,7 +3,7 @@ date: 2024-05-02
 tags:
     - fact
 hubs:
-    - "[[vim]]"
+    - "[[tmux]]"
 ---
 #  Tmux Set Term Colors
 
