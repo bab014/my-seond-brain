@@ -18,8 +18,19 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "e7cd08340f9e5b7a",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "diagrams/Drawing 2024-05-04 21.33.26.excalidraw.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,7 +80,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "202fcee1c013b40e",
@@ -85,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/fact/2024-05-02_bigquery_load_from_gcs.md",
+                "file": "diagrams/Drawing 2024-05-04 21.33.26.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/fact/2024-05-02_bigquery_load_from_gcs.md",
+                "file": "diagrams/Drawing 2024-05-04 21.33.26.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/fact/2024-05-02_bigquery_load_from_gcs.md"
+                "file": "diagrams/Drawing 2024-05-04 21.33.26.excalidraw.md"
               }
             }
           }
@@ -147,8 +159,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "654de74d236fa61c",
+  "active": "e7cd08340f9e5b7a",
   "lastOpenFiles": [
+    "inbox/2024-05-05_my_gnome.md",
+    "notes/fact/2024-05-02_bigquery_load_from_gcs.md",
+    "diagrams/Drawing 2024-05-04 21.33.26.excalidraw.md",
     "notes/fact/2024_05_02_vim-format-note-name.md",
     "notes/code-snips/2024-05-03_set_keymap_neovim.md",
     "notes/code-snips/2024-05-02_gnome_set_a_keybinding.md",
@@ -161,7 +176,6 @@
     "inbox/2024_05_02_tmux_set_term_colors.md",
     "inbox/my_new_note.md",
     "inbox/2024-05-02_gnome_set_a_keybinding.md",
-    "notes/fact/2024-05-02_bigquery_load_from_gcs.md",
     "hubs/docker.md",
     "hubs/tmux.md",
     "diagrams/Drawing 2024-04-27 17.01.55.excalidraw.md",

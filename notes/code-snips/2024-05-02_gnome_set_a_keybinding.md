@@ -10,6 +10,7 @@ urls:
 #  Gnome Set A Keybinding
 
 Here is a snippet to list all the currently set keybindings
+
 ```bash
 gsettings list-recursively | grep -E 'keybindings'
 ```
