@@ -8,29 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "654de74d236fa61c",
+            "id": "e7cd08340f9e5b7a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/fact/2024-05-02_bigquery_load_from_gcs.md",
+                "file": "inbox/2024-05-05_my_gnome.md",
                 "mode": "source",
                 "source": true
               }
             }
-          },
-          {
-            "id": "e7cd08340f9e5b7a",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "diagrams/Drawing 2024-05-04 21.33.26.excalidraw.md"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -80,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "202fcee1c013b40e",
@@ -97,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "diagrams/Drawing 2024-05-04 21.33.26.excalidraw.md",
+                "file": "inbox/2024-05-05_my_gnome.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "diagrams/Drawing 2024-05-04 21.33.26.excalidraw.md",
+                "file": "inbox/2024-05-05_my_gnome.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "diagrams/Drawing 2024-05-04 21.33.26.excalidraw.md"
+                "file": "inbox/2024-05-05_my_gnome.md"
               }
             }
           }
@@ -161,6 +149,7 @@
   },
   "active": "e7cd08340f9e5b7a",
   "lastOpenFiles": [
+    "images/Screenshot from 2024-05-05 22-05-51.png",
     "inbox/2024-05-05_my_gnome.md",
     "notes/fact/2024-05-02_bigquery_load_from_gcs.md",
     "diagrams/Drawing 2024-05-04 21.33.26.excalidraw.md",
