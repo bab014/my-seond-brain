@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "inbox/2024-05-05_my_gnome.md",
-                "mode": "source",
+                "file": "notes/recipes/2024-05-10_creamy_banana_smoothie.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "inbox/2024-05-05_my_gnome.md",
+                "file": "notes/recipes/2024-05-10_creamy_banana_smoothie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "inbox/2024-05-05_my_gnome.md",
+                "file": "notes/recipes/2024-05-10_creamy_banana_smoothie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "inbox/2024-05-05_my_gnome.md"
+                "file": "notes/recipes/2024-05-10_creamy_banana_smoothie.md"
               }
             }
           }
@@ -149,8 +149,13 @@
   },
   "active": "e7cd08340f9e5b7a",
   "lastOpenFiles": [
-    "images/Screenshot from 2024-05-05 22-05-51.png",
+    "notes/recipes/2024-05-10_green_apple_smoothie.md",
+    "notes/recipes/2024-05-10_creamy_banana_smoothie.md",
+    "inbox/2024-05-10_creamy_banana_smoothie.md",
+    "notes/fact/2024-05-10_run_startup_app_on_gnome.md",
+    "notes/recipes",
     "inbox/2024-05-05_my_gnome.md",
+    "images/Screenshot from 2024-05-05 22-05-51.png",
     "notes/fact/2024-05-02_bigquery_load_from_gcs.md",
     "diagrams/Drawing 2024-05-04 21.33.26.excalidraw.md",
     "notes/fact/2024_05_02_vim-format-note-name.md",
@@ -173,17 +178,14 @@
     "hubs/linux.md",
     "hubs/python.md",
     "hubs/go.md",
-    "hubs/Untitled.md",
     "Untitled",
     "notes/code-snips",
     "notes/facts",
     "notes/blog",
-    "inbox/python_help.md",
     "templates",
     "images/debian_logo.svg",
     "images",
     "inbox",
-    "notes",
-    "hubs"
+    "notes"
   ]
 }
