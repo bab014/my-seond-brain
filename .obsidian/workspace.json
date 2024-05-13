@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/recipes/2024-05-10_creamy_banana_smoothie.md",
+                "file": "inbox/2024-05-05_my_gnome.md",
                 "mode": "preview",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/recipes/2024-05-10_creamy_banana_smoothie.md",
+                "file": "inbox/2024-05-05_my_gnome.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/recipes/2024-05-10_creamy_banana_smoothie.md",
+                "file": "inbox/2024-05-05_my_gnome.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/recipes/2024-05-10_creamy_banana_smoothie.md"
+                "file": "inbox/2024-05-05_my_gnome.md"
               }
             }
           }
@@ -149,8 +149,8 @@
   },
   "active": "e7cd08340f9e5b7a",
   "lastOpenFiles": [
-    "notes/recipes/2024-05-10_green_apple_smoothie.md",
     "notes/recipes/2024-05-10_creamy_banana_smoothie.md",
+    "notes/recipes/2024-05-10_green_apple_smoothie.md",
     "inbox/2024-05-10_creamy_banana_smoothie.md",
     "notes/fact/2024-05-10_run_startup_app_on_gnome.md",
     "notes/recipes",
