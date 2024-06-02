@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "inbox/2024-05-05_my_gnome.md",
+                "file": "inbox/2024-06-01_korean_beef_tacos.md",
                 "mode": "preview",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "inbox/2024-05-05_my_gnome.md",
+                "file": "inbox/2024-06-01_korean_beef_tacos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "inbox/2024-05-05_my_gnome.md",
+                "file": "inbox/2024-06-01_korean_beef_tacos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "inbox/2024-05-05_my_gnome.md"
+                "file": "inbox/2024-06-01_korean_beef_tacos.md"
               }
             }
           }
@@ -149,12 +149,15 @@
   },
   "active": "e7cd08340f9e5b7a",
   "lastOpenFiles": [
+    "inbox/2024-06-01_tips_for_cooking_chicken.md",
+    "inbox/korean_beef_tacos.pdf",
+    "inbox/2024-05-05_my_gnome.md",
+    "inbox/2024-06-01_korean_beef_tacos.md",
     "notes/recipes/2024-05-10_creamy_banana_smoothie.md",
     "notes/recipes/2024-05-10_green_apple_smoothie.md",
     "inbox/2024-05-10_creamy_banana_smoothie.md",
     "notes/fact/2024-05-10_run_startup_app_on_gnome.md",
     "notes/recipes",
-    "inbox/2024-05-05_my_gnome.md",
     "images/Screenshot from 2024-05-05 22-05-51.png",
     "notes/fact/2024-05-02_bigquery_load_from_gcs.md",
     "diagrams/Drawing 2024-05-04 21.33.26.excalidraw.md",
@@ -176,8 +179,6 @@
     "templates/note.md",
     "notes/cheat-sheet",
     "hubs/linux.md",
-    "hubs/python.md",
-    "hubs/go.md",
     "Untitled",
     "notes/code-snips",
     "notes/facts",
@@ -185,7 +186,6 @@
     "templates",
     "images/debian_logo.svg",
     "images",
-    "inbox",
-    "notes"
+    "inbox"
   ]
 }
