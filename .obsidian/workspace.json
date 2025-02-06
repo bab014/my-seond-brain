@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "cfbaa6387280900c",
+        "id": "2dfeca3d13e3764b",
         "type": "tabs",
         "children": [
           {
-            "id": "e7cd08340f9e5b7a",
+            "id": "cf230196fee6f762",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "inbox/2024-06-01_korean_beef_tacos.md",
-                "mode": "preview",
-                "source": true
-              }
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -39,7 +37,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -54,7 +54,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -62,7 +64,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -85,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "inbox/2024-06-01_korean_beef_tacos.md",
+                "file": "inbox/2024-10-28_badic_mac_and_cheese.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +97,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 2024-10-28_badic_mac_and_cheese"
             }
           },
           {
@@ -102,10 +108,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "inbox/2024-06-01_korean_beef_tacos.md",
+                "file": "inbox/2024-10-28_badic_mac_and_cheese.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 2024-10-28_badic_mac_and_cheese"
             }
           },
           {
@@ -116,7 +124,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -125,8 +135,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "inbox/2024-06-01_korean_beef_tacos.md"
-              }
+                "file": "inbox/2024-10-28_badic_mac_and_cheese.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 2024-10-28_badic_mac_and_cheese"
             }
           }
         ]
@@ -147,12 +159,18 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e7cd08340f9e5b7a",
+  "active": "cf230196fee6f762",
   "lastOpenFiles": [
+    "inbox/2024-05-05_my_gnome.md",
+    "inbox/2024-10-28_badic_mac_and_cheese.md",
+    "inbox/2024-10-28_basic_chili.md",
+    "inbox/Drawing 2024-10-28 20.27.18.excalidraw.md",
+    "inbox/2024-10-09_chicken_enchiladas.md",
+    "hubs/recipe.md",
+    "inbox/2024-07-28_bible_time.md",
+    "inbox/2024-06-01_korean_beef_tacos.md",
     "inbox/2024-06-01_tips_for_cooking_chicken.md",
     "inbox/korean_beef_tacos.pdf",
-    "inbox/2024-05-05_my_gnome.md",
-    "inbox/2024-06-01_korean_beef_tacos.md",
     "notes/recipes/2024-05-10_creamy_banana_smoothie.md",
     "notes/recipes/2024-05-10_green_apple_smoothie.md",
     "inbox/2024-05-10_creamy_banana_smoothie.md",
@@ -172,13 +190,7 @@
     "inbox/testing 123.md",
     "inbox/2024_05_02_tmux_set_term_colors.md",
     "inbox/my_new_note.md",
-    "inbox/2024-05-02_gnome_set_a_keybinding.md",
-    "hubs/docker.md",
-    "hubs/tmux.md",
-    "diagrams/Drawing 2024-04-27 17.01.55.excalidraw.md",
-    "templates/note.md",
     "notes/cheat-sheet",
-    "hubs/linux.md",
     "Untitled",
     "notes/code-snips",
     "notes/facts",
